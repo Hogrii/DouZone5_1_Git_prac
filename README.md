@@ -1,4 +1,4 @@
-# DouZone5_1_Git_prac
+# DouZone 5기 1조 Git Study Plan
 
 ## 1주차
 - Git Repository 생성
