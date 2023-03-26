@@ -19,9 +19,25 @@
   - push
 
 ## 4주차
+- 명령어 사용
+  - branch
+    - 생성
+    - 이동
+    - 삭제
+  - pull request
+  - merge
 
 ## 5주차
+- 협업
+  - conflict
+    - 발생
+    - 해결
+  - issue
+  - revert
 
 ## 6주차
+- 협업
+  - exercise test
+  - gitflow
 
 ** 일정 변동 가능
