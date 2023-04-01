@@ -8,11 +8,36 @@
 - 용어 정리
 
 ## 3주차
+- 사용자 등록
+  - name
+  - email
+- 명령어 사용
+  - status
+  - add
+  - commit
+  - pull
+  - push
 
 ## 4주차
+- 명령어 사용
+  - branch
+    - 생성
+    - 이동
+    - 삭제
+  - pull request
+  - merge
 
 ## 5주차
+- 협업
+  - conflict
+    - 발생
+    - 해결
+  - issue
+  - revert
 
 ## 6주차
+- 협업
+  - exercise test
+  - gitflow
 
 ** 일정 변동 가능
