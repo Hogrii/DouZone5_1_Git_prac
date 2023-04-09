@@ -8,5 +8,12 @@ public class Jinho {
 		// git commit
 		// git pull
 		// git push
+		
+		// Git 4주차
+		
+		// git branch 생성
+		// git checkout
+		// git pull request & merge
+		// git branch 제거
 	}
 }
